@@ -1,0 +1,1339 @@
+[
+    {
+        "key": "rmea",
+        "contents": [
+          {
+            "key": "rmea_sentence0",
+            "words": [
+              {
+                "text": "But",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "now",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "members",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "of",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "the",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "anti-abortion",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "movement",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "are",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "grappling",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "whether",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "their",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "greatest",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "legal",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "triumph",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "led",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "to",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "political",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "defeat",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "in",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "this",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "week's",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "midterms.",
+                "groundTruthBiased": false
+              }
+            ]
+          },
+          {
+            "key": "rmea_sentence01",
+            "words": [
+              {
+                "text": "With",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "historical",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "trends",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "and",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "a",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "curdling",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "economy",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "suggesting",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "that",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "Democrats",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "could",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "face",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "historic",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "losses,",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "Team",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "Blue",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "made",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "a",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "risky",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "bet",
+                "groundTruthBiased": true
+              },
+              {
+                "text": "on",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "abortion",
+                "groundTruthBiased": false
+              },
+              {
+                "text": "rights.",
+                "groundTruthBiased": false
+              }
+            ]
+          }
+        ]
+      },
+    {       
+    "key": "cmea",
+    "contents": [
+      {
+        "key": "cmea_sentence0",
+        "words": [
+          {
+            "text": "Restricting",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "access",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "abortion",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "does",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "not",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "prevent",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "people",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "from",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "seeking",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "abortion,",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "it",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "only",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "makes",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "it",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "more",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "deadly.",
+            "groundTruthBiased": true
+          }
+        ]
+      },
+
+      {
+        "key": "cmea_sentence1",
+        "words": [
+          {
+            "text": "The",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "U.S.",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "court's",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "decision",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "was",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "\"a",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "major",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "setback\"",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "huge",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "blow",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "women's",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "human",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "rights",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "gender",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "equality\",",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "U.N.",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "human",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "rights",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "chief",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Michelle",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Bachelet",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "said",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "in",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "statement.",
+            "groundTruthBiased": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "lmea",
+    "contents": [
+      {
+        "key": "lmea_sentence0",
+        "words": [
+          {
+            "text": "Since",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "decision",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "in",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "1973,",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "we've",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "been",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "forced",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "defend",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "it",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "over",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "over",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "again",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "as",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "anti-choice",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "politicians",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "organizations",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "focus",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "on",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "undermining",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "chipping",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "away",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "at",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "our",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "rights",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "until",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "they",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "can",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "do",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "away",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "with",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "legal",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "abortion",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "access",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "completely.",
+            "groundTruthBiased": false
+          }
+
+        ]
+      },
+      {
+        "key": "lmea_sentence1",
+        "words": [
+          {
+            "text": "They've",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "passed",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "hundreds",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "of",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "laws",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "restrict",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "woman's",
+            "groundTruthBiased": false
+          },
+          {
+            "text": " ability",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "access",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "abortion",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "care.",
+            "groundTruthBiased": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "rhia",
+    "contents": [
+      {
+        "key": "rhia_sentence0",
+        "words": [
+          {
+            "text": "Not",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "be",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "outdone,",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Department",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "of",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Justice",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "joined",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "abortion",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "fray",
+            "groundTruthBiased": true
+          },
+
+          {
+            "text": "by",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "launching",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "reproductive",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "rights",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "\"task",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "force.\"",
+            "groundTruthBiased": true
+          }
+        ]
+      },
+      {
+        "key": "rhia_sentence1",
+        "words": [
+          {
+            "text": "And,",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "in",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "an",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "excessive",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "show",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "of",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "force,",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "DOJ",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "arrested",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "at",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "least",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "dozen",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "pro-life",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "demonstrators,",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "in",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "some",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "cases",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "at",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "gunpoint,",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "charging",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "them",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "with",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "violations",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "of",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Freedom",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "of",
+            "groundTruthBiased": false
+          },  {
+            "text": "Access",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Clinic",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Entrances",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "(FACE)",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "Act.",
+            "groundTruthBiased": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "lhia",
+    "contents": [
+      {
+        "key": "lhia_sentence0",
+        "words": [
+          {
+            "text": "Anti-choice",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "extremists",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "will",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "stop",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "at",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "nothing.",
+            "groundTruthBiased": true
+          }
+        ]
+      },
+      {
+        "key": "lhia_sentence1",
+        "words": [
+          {
+            "text": "They",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "have",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "opened",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "thousands",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "of",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "fake",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "health-care",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "\"clinics\"",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "that",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "lie",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "mislead",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "women",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "prevent",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "them",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "from",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "considering",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "abortion",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "as",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "an",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "option.",
+            "groundTruthBiased": false
+          }
+        ]
+      },
+      {
+        "key": "lhia_sentence2",
+        "words": [
+          {
+            "text": "And",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "some",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "anti-abortion",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "zealots",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "—emboldened",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "by",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "extreme",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "rhetoric",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "from",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "anti-choice",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "groups",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "politicians—",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "have",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "even",
+            "groundTruthBiased": true
+          },
+          {
+            "text": "murdered",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "doctors",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "bombed",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "clinics.",
+            "groundTruthBiased": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "chia",
+    "contents": [
+      {
+        "key": "chia_sentence0",
+        "words": [
+          {
+            "text": "Speaking",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "at",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "meeting",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "of",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "reproductive",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "rights",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "task",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "force,",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "with",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "Vice",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "President",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "Kamala",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "Harris,",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "Biden",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "said",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "decision",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "that",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "rescinded",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "women's",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "constitutional",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "right",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "an",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "abortion",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "has",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "had",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "frightening",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "ripple",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "effects",
+            "groundTruthBiased": true
+          },
+	  {
+            "text": "in",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "some",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "states,",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "include",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "restricting",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "a",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "teen's",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "access",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "medicine",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "she",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "needed",
+            "groundTruthBiased": false
+          },
+	  {
+            "text": "for",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "arthritis.",
+            "groundTruthBiased": false
+          }
+        ]
+      },
+      {
+        "key": "chia_sentence1",
+        "words": [
+          {
+            "text": "\"We're",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "not",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "going",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "to",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "sit",
+            "groundTruthBiased": true
+          },
+ 	  {
+            "text": "by",
+            "groundTruthBiased": true
+          },
+ 	  {
+            "text": "and",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "let",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "Republicans",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "throughout",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "the",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "country",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "enact",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "extreme",
+            "groundTruthBiased": true
+          },
+ 	  {
+            "text": "policies,\"",
+            "groundTruthBiased": false
+          },
+ 	  {
+            "text": "he",
+            "groundTruthBiased": false
+          },
+          {
+            "text": "said.",
+            "groundTruthBiased": false
+          }
+        ]
+      }
+    ]
+  }
+]
